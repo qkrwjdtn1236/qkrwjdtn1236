@@ -17,7 +17,7 @@
 
 ## 📫 How to reach me ...
 - <img src="https://img.shields.io/badge/Gmail-dev.parkjeongsu@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Dev_Not_Integer#0117-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Dev_Not_Integer%EF%BC%830117-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 <!---
 qkrwjdtn1236/qkrwjdtn1236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
