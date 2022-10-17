@@ -1,6 +1,5 @@
 ## 👀 I’m interested in Language...
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-library-0288D1?style=flat-square&logo=Python&logoColor=white"/></a>
-- <a href="https://www.tensorflow.org/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-library-0288D1?style=flat-square&logo=Python&logoColor=white"/></a> => <a href="https://www.tensorflow.org/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-FF6F00?style=flat-square&logo=Keras&logoColor=white"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/scikit-learn-D00000?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
