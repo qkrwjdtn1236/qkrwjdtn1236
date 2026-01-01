@@ -7,14 +7,15 @@ I mainly work on building practical AI systems that can be applied to real-world
 ---
 
 ## 🔧 Tech Stack
-- **Language**: Python  
-- **AI / ML**: PyTorch, TensorFlow  
+- **Main Language**: Python  
+- **AI / ML**: PyTorch, TensorFlow
 - **Computer Vision**: OpenCV, YOLO  
 - **Generative AI**: LLM, Stable Diffusion, LoRA  
 - **Speech**: HiFi-GAN  
 - **Backend**: FastAPI, Flask, Node.JS 
 - **Frontend**: HTML, CSS, JavaScript (basic UI), Tailwind CSS  
 - **Data**: Pandas, NumPy, matplotlib, seaborn
+- **APP**: Android Studio, Flutter
 
 ---
 
